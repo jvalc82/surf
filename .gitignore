@@ -1,0 +1,8 @@
+surf_temp/
+patches/
+*.o
+*.diff
+*.patch
+surf
+test*
+*.so
